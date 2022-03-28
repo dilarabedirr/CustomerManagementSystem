@@ -1,4 +1,4 @@
-# CustomerManagementSystem
+# Customer Management System
 Yazılım Geliştirici Yetiştirme Kampı (JAVA + REACT) 4. gün 2. ödev gerçek hayatta abstract ve interface kullanımı
 
 # Senaryo
